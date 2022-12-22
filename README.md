@@ -6,8 +6,9 @@
 Proposals can be voted on via the website. Only on-chain votes of DAOs that the user has a membership
 token of in their wallet will, be shown. 
 
-Each proposal goes through the following stages: 
- 0 Pending 
+Each proposal goes through the following stages: \
+
+ 0 Pending \
  __________\
  1 Active\
  __________\
