@@ -26,3 +26,4 @@ Vote.js page
 ## Deployment: 
 
 However, Rinkeby Testnet this DAO was running on has been taken down. Hence, the frontend does not work anymore.
+For some illustrations, refer to the following screenshots:
