@@ -6,7 +6,7 @@
 Proposals can be voted on via the website. Only on-chain votes of DAOs that the user has a membership
 token of in their wallet will, be shown. 
 
-Each proposal goes through the following stages: \
+Each proposal goes through the following stages: 
 
  0 Pending \
  __________\
@@ -18,7 +18,7 @@ Each proposal goes through the following stages: \
  __________\
  5 Queued \
  6 Expired \
- 7 Executed\
+ 7 Executed
 
 When the proposal is active, users can vote on it. All votes are shown via
 Vote.js page
