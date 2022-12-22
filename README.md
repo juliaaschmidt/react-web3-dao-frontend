@@ -7,17 +7,17 @@ Proposals can be voted on via the website. Only on-chain votes of DAOs that the 
 token of in their wallet will, be shown. 
 
 Each proposal goes through the following stages: 
- 0 Pending
- __________
- 1 Active
- __________
- 2 Canceled
- 3 Defeated
- 4 Succeeded
- __________
- 5 Queued
- 6 Expired 
- 7 Executed
+ 0 Pending 
+ __________\
+ 1 Active\
+ __________\
+ 2 Canceled\
+ 3 Defeated\
+ 4 Succeeded\
+ __________\
+ 5 Queued \
+ 6 Expired \
+ 7 Executed\
 
 When the proposal is active, users can vote on it. All votes are shown via
 Vote.js page
