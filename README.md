@@ -25,5 +25,4 @@ Vote.js page
 
 ## Deployment: 
 
-However, Rinkeby Testnet was taken down, which is why it no longer works.
-Website was live and deployed to AWS amplify (https://master.djf2f3efc4uda.amplifyapp.com/) before. 
+However, Rinkeby Testnet this DAO was running on has been taken down. Hence, the frontend does not work anymore.
